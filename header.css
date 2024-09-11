@@ -1,0 +1,142 @@
+.header{
+  width: 100vw;
+  height: 193px;
+  background-color: rgb(0, 0, 0);
+  margin-top: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppin',sans-serif;
+    box-sizing: border-box;
+}
+body{
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+.company-name{
+  width: 1187px;
+  height: 131px;
+  background-color: rgb(0, 0, 0);
+  margin:auto;
+  padding:41px;
+  border-bottom:rgb(40, 38, 38) 1px solid;
+  
+}
+.style-copiko{
+  color: #b7b7b7; 
+  text-decoration:none;
+  text-align:center;
+  font-family: "Playfair Display", serif;
+  font-size:44px;
+  font-weight: 100;
+
+}
+.style-copiko:hover{
+  color: #db4f3d;
+  transition: 2s;
+}
+.tool-box{
+  margin-top: 19px;
+}
+.style-copiko1{
+  color: #b7b7b7; 
+  text-decoration:none;
+  text-align:center;
+  font-size:13px;
+  font-weight: 100;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+
+a{
+  text-decoration: none;
+  text-align: center;
+  color: #b7b7b7; 
+  text-decoration:none;
+  text-align:center;
+  font-size:13px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin: 19px 11px;
+  font-family :"Open Sans", sans-serif;
+  font-weight: bold;
+  
+}
+a:hover{
+  color: #db4f3d;
+  cursor: pointer;
+  transition: 0.5s;
+  text-decoration: underline;
+  
+}
+
+.home{
+  margin-left: 252px;
+}
+.center{
+  width:100%;
+  margin-bottom: 100px;
+}
+.center1{
+  width: 100%;
+}
+
+.company-text{
+  width: 100%;
+  background-color:rgb(0, 0, 0) ;
+  
+}
+.company-text1{
+  font-weight: 700;
+  text-align: center;
+  font-family: "Roboto", Sans-serif;
+  font-size: 22px;
+  margin: 0 27px;
+  padding: 20px 0;
+  color:   #7a7a7a;
+  
+}
+.company-text2{
+  font-weight: 700;
+  text-align: center;
+  font-family: "Roboto", Sans-serif;
+  font-size: 22px;
+  margin: 0 27px;
+  padding: 20px 0;
+  color:   #7a7a7a;
+  
+}
+.coffee-image2-size{
+  width: 940px;
+  margin: 47px 181px 0 161px ;
+}
+.company-logo{
+  margin:191px 0 115px 367px;
+}
+
+.close{
+  margin: 51px 82px 52px 365px;
+}
+
+.copy{
+  color: #7a7a7a;
+  font-family: 'poppin',sans-serif;
+  
+}
+.kopiko:hover{
+  color: #db4f3d;
+  cursor: pointer;
+  transition: 0.5s;
+  text-decoration: underline;
+}
+.dark{
+  color: #7a7a7a;
+  font-family: 'poppin',sans-serif;
+}
+
